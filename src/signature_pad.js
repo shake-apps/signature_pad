@@ -37,7 +37,6 @@ var SignaturePad = (function (document) {
         }
     };
 
-
     var SignaturePad = function (canvas, options) {
         var self = this,
             opts = options || {};
